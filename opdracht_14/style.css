@@ -1,0 +1,14 @@
+.blue-background {
+  background-color: rgb(104, 184, 211);
+}
+.red-background {
+  background-color: rgb(204, 100, 100);
+}
+body {
+  padding: 120px;
+}
+button {
+  margin: 20px;
+  padding: 20px 40px;
+  font-size: 20px;
+}
